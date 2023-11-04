@@ -61,6 +61,6 @@ Las herramientas necesarias para poder hacer funcionar este proyecto son las sig
 
 ## Requisitos para obtener el código del proyecto
 Dirigirse al botón de verde denominado "Code" y descargar el proyecto o bien, clonar con el siguiente comando.
-  git clone https://github.com/charBot21/techniva.git 
+  - git clone https://github.com/charBot21/techniva.git 
 
 Para clonar el proyecto, requieres tener instalado Git en tu equipo de cómputo y dirigirte a la terminal de Mac o bien, abrir la terminal Bash de Git en Windows.
